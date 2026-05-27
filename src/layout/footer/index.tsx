@@ -5,7 +5,7 @@ const AppFooter = () => {
   return (
     <>
       <div className="AppFooter-container">
-        <p>Copyright © 2026 gowtham. All rights reserved.</p>
+        <p className="AppFooter-cpoyrigt-text">Copyright © 2026 gowtham. All rights reserved.</p>
       </div>
     </>
   );
