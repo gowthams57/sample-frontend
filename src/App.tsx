@@ -1,7 +1,7 @@
-import React from 'react';
-import './App.css';
-import { AppFooter, AppHeader } from './layout';
-import { Home } from './pages';
+import React from "react";
+import "./App.css";
+import { AppFooter, AppHeader } from "./layout";
+import { Home } from "./pages";
 
 // @desc - root component
 const App = () => {

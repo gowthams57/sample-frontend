@@ -1,4 +1,4 @@
-import './style.css';
+import "./style.css";
 
 // @desc - Shared AppFooter layout component
 const AppFooter = () => {
