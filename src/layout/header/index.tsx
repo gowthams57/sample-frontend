@@ -1,4 +1,4 @@
-import './style.css';
+import "./style.css";
 // @desc - Shared AppHeader layout component
 const AppHeader = () => {
   return (

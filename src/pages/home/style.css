@@ -19,13 +19,13 @@
 .Home-section1 {
   background-color: #ffffff;
   grid-column: 1 / 2;
-  grid-row: 1  / 6
+  grid-row: 1 / 6;
 }
 
 .Home-section2 {
   background-color: #ffffff;
   grid-column: 2 / 4;
-  grid-row: 1 / 4
+  grid-row: 1 / 4;
 }
 .Home-section3 {
   background-color: #ffffff;
