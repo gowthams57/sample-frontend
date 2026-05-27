@@ -1,0 +1,24 @@
+.AppHeader-container {
+  height: 50px;
+  background-color: #f4f4f4;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0px 8px;
+  position: relative;
+}
+
+.App-logo {
+  height: 30px;
+  width: 60px;
+  background-color: #ffffff;
+}
+
+.App-auth-action {
+  height: 30px;
+  width: 120px;
+  background-color: #ffffff;
+  position: absolute;
+  right: 8px;
+  left: auto;
+}
